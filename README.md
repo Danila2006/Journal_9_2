@@ -20,16 +20,17 @@ Personal Journal — це мобільний застосунок для вед�
 # Скріншоти
 
 ## Timeline
-![Timeline](assets/screenshots/timeline.png)
+![Timeline](assets/timeline.png)
 
 ## Entry Form
-![Entry Form](assets/screenshots/entry_form.png)
+![Entry Form](assets/entry_form.png)
 
 ## Calendar
-![Calendar](assets/screenshots/calendar.png)
+![Calendar](assets/calendar.png)
 
 ## Statistics
-![Statistics](assets/screenshots/statistics.png)
+![Statistics](assets/statistics.png)
 
 ## Tags
-![Tags](assets/screenshots/tags.png)
+![Tags](assets/tags.png)
+
