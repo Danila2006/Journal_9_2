@@ -1,16 +1,35 @@
-# journal_9_2
+# Personal Journal App
 
-A new Flutter project.
+Практична робота 9.2  
+**Варіант:** 1  
+**Technology:** SQLite (Sqflite)
 
-## Getting Started
+# Опис
 
-This project is a starting point for a Flutter application.
+Personal Journal — це мобільний застосунок для ведення щоденника з:
 
-A few resources to get you started if this is your first Flutter project:
+- Mood tracking 🙂
+- Тегами (many-to-many)
+- Пошуком (LIKE)
+- Фільтрами
+- Статистикою (GROUP BY)
+- Календарним переглядом
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Застосунок реалізовано з використанням **SQLite (sqflite)**, транзакцій та JOIN-запитів.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Скріншоти
+
+## Timeline
+![Timeline](assets/screenshots/timeline.png)
+
+## Entry Form
+![Entry Form](assets/screenshots/entry_form.png)
+
+## Calendar
+![Calendar](assets/screenshots/calendar.png)
+
+## Statistics
+![Statistics](assets/screenshots/statistics.png)
+
+## Tags
+![Tags](assets/screenshots/tags.png)
